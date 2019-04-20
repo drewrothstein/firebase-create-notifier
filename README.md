@@ -11,19 +11,19 @@ Similar projects:
 
 ## Overview Diagram
 
-![overview diagram](https://github.com/drewrothstein/firebase-create-notifer/raw/master/errata/diagram.png)
+![overview diagram](https://github.com/drewrothstein/firebase-create-notifier/raw/master/errata/diagram.png)
 
 ## Dashboard in Firebase
 
-![dashboard](https://github.com/drewrothstein/firebase-create-notifer/raw/master/errata/functions_dashboard.png)
+![dashboard](https://github.com/drewrothstein/firebase-create-notifier/raw/master/errata/functions_dashboard.png)
 
 ## Authentication in Firebase
 
-![authentication](https://github.com/drewrothstein/firebase-create-notifer/raw/master/errata/functions_authentication_01.png)
+![authentication](https://github.com/drewrothstein/firebase-create-notifier/raw/master/errata/functions_authentication_01.png)
 
 ## Logs in Firebase
 
-![logs](https://github.com/drewrothstein/firebase-create-notifer/raw/master/errata/functions_logs_01.png)
+![logs](https://github.com/drewrothstein/firebase-create-notifier/raw/master/errata/functions_logs_01.png)
 
 ## What does it do?
 
@@ -103,7 +103,7 @@ $ firebase deploy --only functions
 
 This will produce output that looks similar to this:
 
-![deployment output](https://github.com/drewrothstein/firebase-create-notifer/raw/master/errata/deployment_output.png)
+![deployment output](https://github.com/drewrothstein/firebase-create-notifier/raw/master/errata/deployment_output.png)
 
 ## Testing
 
